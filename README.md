@@ -7,6 +7,11 @@
 [![Header](https://raw.githubusercontent.com/MartinHeinz/borsym/borsym/readme_header.png "Header")](https://some-url.dev/)
 
 
+-->
+<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
+
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 🔭 I’m currently working on understanding and how to use the dynamic programming 👻
 🌱 I’m currently learning computer science at the ELTE (second year)
 👯 I’m looking to collaborate on ...
@@ -15,12 +20,9 @@
 📫 How to reach me: borsymatee@gmail.com 💬
 😄 Pronouns: ...
 ⚡ Fun fact: I've always love being around people, This is why I played soccer for more then 12 years ⚽, but currently I'm focusing on my studies, I spend my free time always with my friends or haveing sum fun in Hacerrank, Codewars, Firecode, I really love the challenges and happiness when I solve a really tough task.🤔 
--->
-<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=borsym&theme=dark" />
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=borsym&theme=dark" />
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=borsym)](https://github.com/anuraghazra/github-readme-stats)
