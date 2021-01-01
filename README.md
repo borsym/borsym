@@ -17,4 +17,5 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=borsym&show_icons=true&theme=radical)
 
+## Programming is thinking not typing, If you learn how to think you can write code in every language 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borsym&layout=compact)](https://github.com/borsym/github-readme-stats)
