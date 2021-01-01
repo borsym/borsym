@@ -4,8 +4,7 @@
 **borsym/borsym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=borsym&hide=contribs,prs)
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-Here are some ideas to get you started:
+[![Header](https://raw.githubusercontent.com/MartinHeinz/borsym/borsym/readme_header.png "Header")](https://some-url.dev/)
 
 
 - 🔭 I’m currently working on understanding and how to use the dynamic programming 👻
