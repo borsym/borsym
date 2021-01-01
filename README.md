@@ -18,10 +18,3 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=borsym&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borsym&layout=compact)](https://github.com/borsym/github-readme-stats)
-
-<a href="https://github.com/borsym/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=borsym&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/borsym/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=borsym&repo=convoychat" />
-</a>
