@@ -15,7 +15,8 @@
 #### ⚡ Fun fact: I've always love being around people, This is why I played soccer for more then 12 years ⚽, but currently I'm focusing on my studies, I spend my free time always with my friends or haveing sum fun in Hacerrank, Codewars, Firecode, I really love the challenges and happiness when I solve a really tough task.🤔 
 
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=borsym&show_icons=true&theme=radical)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=borsym&theme=dark" />
+
 
 
