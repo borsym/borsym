@@ -8,7 +8,7 @@
 # Hi there  👋
 
 
-#### 🔭 I’m currently working on understanding and how to use the dynamic programming 👻
+#### 🔭 I’m currently working on my coding skills
 #### 🌱 I’m currently learning computer science at the ELTE (second year)
 #### 👯 I’m looking to collaborate on ...
 #### 🤔 I’m looking for help with my development, I really like to learn new skills and things which help me get better in my life.
